@@ -1,9 +1,9 @@
 # AI Chatbot with React
-
+![Screenshot of the app](Screenshot.png "App Screenshot")
 A modern, interactive chatbot implementation using React, TypeScript, and natural language processing.
 
 ![Chatbot Demo](https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&q=80&w=1600)
-![Screenshot of the app](Screenshot.png "App Screenshot")
+
 ## Features
 
 - 🤖 Intelligent conversation handling
